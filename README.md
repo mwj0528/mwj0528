@@ -5,6 +5,8 @@
 ## Minwoo Jung
 B.S. Industrial Systems Engineering & Data Science in Dongguk University
 
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fmwj0528?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+
 ## Stack
 
 - Python
