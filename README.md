@@ -13,3 +13,5 @@ B.S. Industrial Systems Engineering & Data Science in Dongguk University
 - C
 - R
 - Pytorch
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwj0528)
