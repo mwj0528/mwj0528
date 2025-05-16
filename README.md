@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&desc=This%20is%20Minwoo's%20Github%20!&fontAlignY=35&fontAlign=50&color=gradient&fontSize=100&fontColor=ffffff)
 
 
 
