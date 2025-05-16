@@ -3,7 +3,7 @@
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fmwj0528?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
 ## Minwoo Jung
-- **B.S. Industrial Systems Engineering & Data Science in Dongguk University**
+- **B.S. Industrial Systems Engineering & Data Science in Dongguk University(Mar. 2020 ~ Present)**
 
 - **Research Intern at DTM Lab, Department of Industrial & Systems Engineering, Dongguk University, Korea (Jan. 2024 ~ Oct. 2024)**
 
