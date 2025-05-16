@@ -1,11 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&desc=This%20is%20Minwoo's%20Github%20!&fontAlignY=35&fontAlign=50&color=gradient&fontSize=100&fontColor=ffffff)
 
-
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fmwj0528?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
 ## Minwoo Jung
-**B.S. Industrial Systems Engineering & Data Science in Dongguk University**
+- **B.S. Industrial Systems Engineering & Data Science in Dongguk University**
 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fmwj0528?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+- **Research Intern at DTM Lab, Department of Industrial & Systems Engineering, Dongguk University, Korea (Jan. 2024 ~ Oct. 2024)**
+
+- **Research Intern at MAI Lab, Electrical and Electronic Engineering, Yonsei University, Korea (Jan.2025 ~ Present)**
+
 
 ## Stack
 **Programming Language**
