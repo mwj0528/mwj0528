@@ -19,8 +19,13 @@
   
  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 
-<div align = "center">
+</br>
+
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=augustinLib&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=augustinLib&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" />
   </a>
-</div>
+  <a href="https://solved.ac/mwj0528">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mwj0528" />
+  </a>
+</p>
